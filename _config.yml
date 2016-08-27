@@ -1,0 +1,14 @@
+layout_spectrum: 0.3535652330610901
+typography_spectrum: 0.7396065564826131
+color:
+  brandStrength: 0.9681731665041298
+  lightness: 0.31155497999861836
+  saturation: 0.5841718856245279
+  rhythmicContrast: 0.6253944549243897
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: Toybox Learning
